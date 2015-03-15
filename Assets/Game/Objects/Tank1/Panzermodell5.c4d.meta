@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: 5cf7f1b9b62f2449aa3149124b0de868
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Aufbau
+    100002: Body
+    100004: Cinema4D_Editor
+    100006: "Dummyw\xFCrfel"
+    100008: Panzer
+    100010: //RootNode
+    100012: Rohr
+    100014: Turm
+    100016: Turm_mit_Rohr
+    400000: Aufbau
+    400002: Body
+    400004: Cinema4D_Editor
+    400006: "Dummyw\xFCrfel"
+    400008: Panzer
+    400010: //RootNode
+    400012: Rohr
+    400014: Turm
+    400016: Turm_mit_Rohr
+    2300000: Aufbau
+    2300002: Body
+    2300004: Rohr
+    2300006: Turm
+    3300000: Aufbau
+    3300002: Body
+    3300004: Rohr
+    3300006: Turm
+    4300000: Body
+    4300002: Aufbau
+    4300004: Rohr
+    4300006: Turm
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
